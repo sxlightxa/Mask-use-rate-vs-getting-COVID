@@ -1,4 +1,4 @@
-# Mask-use-rate-vs-getting-COVID
+# Mask use rate vs chance of getting COVID
 Used: linear regression(OLS), Pandas, numpy, matplotlib.
 Done on Python 3 on Dec 2021.
 
