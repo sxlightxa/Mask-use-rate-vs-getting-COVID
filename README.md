@@ -3,7 +3,7 @@ Used: linear regression(OLS), Pandas, numpy, matplotlib.
 Done on Python 3 on Dec 2021.
 
 I was interested in how does mask-use rate impact the chance of getting COVID with a consideration of population density of each states.
-Download ipynb to view or view html file: 
+Download ipynb to view or view html file: ** Mask use rate vs chance of getting COVID in 2020**
 
 I.
 Download COVID cummulative confirmed cases for each states raw data from:  https://github.com/nytimes/covid-19-data/tree/bde13b021e99c6b4a63fb66a6144e889cc635e31.
